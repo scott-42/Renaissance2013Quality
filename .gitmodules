@@ -1,0 +1,3 @@
+[submodule "mobtest"]
+	path = mobtest
+	url = https://github.com/mobtest/renaissance.io.git
