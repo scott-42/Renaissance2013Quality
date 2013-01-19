@@ -4,3 +4,6 @@
 [submodule "kif"]
 	path = kif
 	url = https://github.com/puls/kif-renaissance.git
+[submodule "GorillaLogic"]
+	path = GorillaLogic
+	url = https://github.com/saturnboy/renaissance.io.git
