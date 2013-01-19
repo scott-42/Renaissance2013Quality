@@ -1,3 +1,6 @@
 [submodule "mobtest"]
 	path = mobtest
 	url = https://github.com/mobtest/renaissance.io.git
+[submodule "kif"]
+	path = kif
+	url = https://github.com/puls/kif-renaissance.git
